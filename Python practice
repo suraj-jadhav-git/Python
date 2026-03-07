@@ -1,0 +1,57 @@
+Python Program to Print Hello world!
+
+[16]
+0s
+print('Hello world!')
+Hello world!
+Python Program to Add Two Numbers
+
+[18]
+2s
+a = int(input())
+b = int(input())
+print('sum =',a+b)
+4
+5
+sum = 9
+Python Program to Find the Square Root
+
+[20]
+2s
+a = int(input())
+print('Square root of', a, 'is',int(a**0.5))
+100
+Square root of 100 is 10
+Python Program to Calculate the Area of a Triangle
+
+[25]
+7s
+base = float(input('enter base of triange'))
+height = float(input('enter height of traingle'))
+area = 0.5 * base * height
+print('Area of Traingle is', area)
+
+
+enter base of triange40.55
+enter height of traingle90
+Area of Traingle is 1824.7499999999998
+Python Program to Solve Quadratic Equation
+
+[37]
+8s
+
+
+a =float(input('enter value of a '))
+b = float(input('enter value of b '))
+c = float(input('enter value of c '))
+
+x= (-(b)+(((b)**2)-(4*(a)*(c)))**0.5)/2*(a)
+y= (-(b)-(((b)**2)-(4*(a)*(c)))**0.5)/2*(a)
+
+
+
+
+enter value of a 1
+enter value of b -5
+enter value of c 6
+3.0 2.0
